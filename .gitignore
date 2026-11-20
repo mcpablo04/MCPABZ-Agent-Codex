@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+mcp_config.json
+voice_env/
+voice_model/
+browser_deps/
+browser_binaries/
+copilot_deps/
+copilot_runtime/
+copilot_cli/node_modules/
+*.bak
+*.log
